@@ -1,2 +1,2 @@
 # populate_mongoDB
-This is to demonstrate how populate works in MongoDB. TO-DO: Please add your personal mongo id/pass in server.js ,line: 32.
+TO-DO : Connect to mongo is to be done with your personal id/pass in server.js , Line:32.
